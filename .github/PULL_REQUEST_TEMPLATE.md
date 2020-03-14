@@ -1,9 +1,19 @@
 <!-- Thank you for submitting this PR! :) -->
 <!-- Provide a general summary of your changes in the Title above ^, end with (close #<issue-no>) or (fix #<issue-no>) -->
+## Status
+**READY/IN DEVELOPMENT/HOLD**
 
 ### Description
-<!-- The title might not be enough to convey how this change affects the user. -->
-<!-- Describe the changes from a user's perspective -->
+> A few sentences describing the overall goals of the pull request's commits.
+
+## Types of changes
+<!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
+- [ ] Bug fix (non-breaking change which fixes an issue)
+- [ ] New feature (non-breaking change which adds functionality)
+- [ ] Breaking change (fix or feature that would cause existing functionality to change)
+- [ ] My change requires a change to the documentation.
+- [ ] I have updated the documentation accordingly.
+- [ ] My change requires a change to deployment.
 
 ### Affected components
 <!-- Remove non-affected components from the list -->
@@ -19,10 +29,13 @@
 - [ ] ROCC Graphql
 - [ ] OnBoading Scripts
 
-### Related Issues
-<!-- Please make sure you have an issue associated with this Pull Request -->
-<!-- And then add `(close #<issue-no>)` to the pull request title -->
-<!-- Add the issue number below (e.g. #234) -->
+### Related Issues or Pull Requests
+> List related PRs against other branches:
+
+branch | PR
+------ | ------
+other_pr_production | [link]()
+other_pr_master | [link]()
 
 ### Solution and Design
 <!-- How is this issue solved/fixed? What is the design? -->
@@ -36,11 +49,5 @@
 <!-- Limitations of the PR, known bugs and suggested workarounds -->
 <!-- Feel free to delete these comment lines -->
 
-#### Breaking changes
-
-- [ ] No Breaking changes
-- [ ] There are breaking changes:
-
-<!-- Add any other breaking change not mentioned above -->
-
-<!-- Explain briefly about your breaking changes below -->
+### Breaking changes
+> Explain briefly about your breaking changes below
