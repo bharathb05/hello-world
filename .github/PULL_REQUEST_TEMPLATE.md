@@ -8,7 +8,7 @@
 
 ## Types of changes
 <!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
-- [ ] Bug fix (non-breaking change which fixes an issue)
+- [x] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to change)
 - [ ] My change requires a change to the documentation.
@@ -17,7 +17,6 @@
 
 ### Affected components
 <!-- Remove non-affected components from the list -->
-
 - [ ] HSDP IAM Auth
 - [ ] ROCC
 - [ ] ROCC Communication
@@ -29,17 +28,15 @@
 - [ ] ROCC Graphql
 - [ ] OnBoading Scripts
 
-### Related Issues or Pull Requests
-> List related PRs against other branches:
+### Pull Requests if there are  impacted changes
+> Add the link to PR below if there are impacted changes in the other code repos
 
-branch | PR
------- | ------
-other_pr_production | [link]()
-other_pr_master | [link]()
+### Breaking changes
+> Explain briefly about your breaking changes below
 
 ### Solution and Design
-<!-- How is this issue solved/fixed? What is the design? -->
-<!-- It's better if we elaborate -->
+ > How is this issue solved/fixed? What is the design? 
+ > is it better if we elaborate ?
 
 ### Steps to test and verify
 <!-- If this is a feature, what are the steps to try them out? -->
@@ -48,6 +45,3 @@ other_pr_master | [link]()
 ### Limitations, known bugs & workarounds
 <!-- Limitations of the PR, known bugs and suggested workarounds -->
 <!-- Feel free to delete these comment lines -->
-
-### Breaking changes
-> Explain briefly about your breaking changes below
